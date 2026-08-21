@@ -1,6 +1,6 @@
 # Ore XP Orbs
 
-[Download on Modrinth](YOUR-MODRINTH-LINK) • [Report a Bug](YOUR-GITHUB-ISSUES-LINK) • [Request a Feature](YOUR-GITHUB-ISSUES-LINK)
+[Download on Modrinth](https://modrinth.com/datapack/ore-xp-orbs) • [Report a Bug](https://github.com/ITknighTI/Ore_XP_Orbs/issues) • [Request a Feature](https://github.com/ITknighTI/Ore_XP_Orbs/issues)
 
 Ore XP Orbs makes Copper, Iron, and Gold ores drop experience orbs when mined, similar to vanilla ores such as Coal, Diamond, Emerald, and Lapis Lazuli.
 
