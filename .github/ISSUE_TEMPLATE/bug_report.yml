@@ -44,7 +44,7 @@ body:
     attributes:
       label: What happened?
       description: Describe the problem you encountered.
-      placeholder: "Tell us what went wrong..."
+      placeholder: "Tell what went wrong..."
     validations:
       required: true
 
@@ -52,7 +52,7 @@ body:
     id: reproduce
     attributes:
       label: Steps to Reproduce
-      description: Tell us how we can reproduce the issue.
+      description: Tell how one can reproduce the issue.
       placeholder: |
         1. Mine...
         2. Use...
