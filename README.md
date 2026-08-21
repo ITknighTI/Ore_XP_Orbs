@@ -1,5 +1,7 @@
 # Ore XP Orbs
 
+[Download on Modrinth](YOUR-MODRINTH-LINK) • [Report a Bug](YOUR-GITHUB-ISSUES-LINK) • [Request a Feature](YOUR-GITHUB-ISSUES-LINK)
+
 Ore XP Orbs makes Copper, Iron, and Gold ores drop experience orbs when mined, similar to vanilla ores such as Coal, Diamond, Emerald, and Lapis Lazuli.
 
 The experience is dropped as real XP orbs instead of being added directly to the player's XP bar, allowing it to work naturally with Minecraft mechanics such as Mending.
