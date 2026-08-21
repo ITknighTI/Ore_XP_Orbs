@@ -1,21 +1,59 @@
-MIT License
+Ore XP Orbs License
+Copyright © 2026 ITknighTI. All Rights Reserved.
 
-Copyright (c) 2026 ITknighTI
+By downloading, using, modifying, or redistributing Ore XP Orbs,
+you agree to follow the terms of this license.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and to permit 
-persons to whom the modis furnished to do so, subject to the following 
-conditions:
+PERMITTED USE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the software.
+You may:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Download and use Ore XP Orbs for personal use.
+- Use Ore XP Orbs on private or public Minecraft servers.
+- Modify Ore XP Orbs for your own private use.
+- Include Ore XP Orbs in Minecraft modpacks, subject to the
+  Modpack Distribution terms below.
+
+MODPACK DISTRIBUTION
+
+Ore XP Orbs may be included in Minecraft modpacks provided that:
+
+- Ore XP Orbs is clearly credited to its original author,
+  Joakim Fjeldheim.
+- A link to the official Ore XP Orbs project page is provided
+  in the modpack's documentation, description, or credits.
+- This license and its terms are respected.
+- The Ore XP Orbs files are not presented as the modpack
+  author's own work.
+- The project is distributed only as part of the modpack and
+  not separately as a reupload of Ore XP Orbs.
+
+PROHIBITED USE
+
+Without explicit permission from the copyright holder, you may not:
+
+- Reupload or redistribute Ore XP Orbs as a standalone project,
+  whether modified or unmodified.
+- Publish modified versions or forks of Ore XP Orbs.
+- Claim Ore XP Orbs or its source code as your own work.
+- Remove or misrepresent authorship or copyright information.
+- Sell Ore XP Orbs or commercially redistribute it as a
+  standalone product.
+
+MODIFICATIONS
+
+You may modify Ore XP Orbs for your own private use.
+
+Publishing or distributing modified versions requires explicit
+permission from the copyright holder.
+
+PERMISSION
+
+For uses not covered by this license, please contact the project
+author for permission.
+
+MINECRAFT DISCLAIMER
+
+Ore XP Orbs is an independent project and is not affiliated with,
+endorsed by, or associated with Mojang Studios or Microsoft.
+Minecraft is a trademark of Microsoft Corporation.
