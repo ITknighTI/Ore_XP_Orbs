@@ -19,7 +19,9 @@ The experience is dropped as real XP orbs instead of being added directly to the
 | Ore | XP Reward |
 
 | Copper Ore | 20% chance to drop 1 XP |
+
 | Iron Ore | 1–3 XP |
+
 | Gold Ore | 2–4 XP |
 
 Copper has a lower XP reward due to its abundance and large vein sizes.
