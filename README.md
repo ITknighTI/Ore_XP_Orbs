@@ -67,3 +67,14 @@ Open a **Feature Request** in the Issues section. Suggestions for balancing, add
 ## AI Disclosure
 
 AI assistance was used during development for coding and troubleshooting. All gameplay testing and final functionality were manually tested in-game.
+
+## License
+
+Ore XP Orbs is **All Rights Reserved**.
+
+Modpack inclusion is permitted with proper attribution and a link
+to the official project page, subject to the terms in the
+[LICENSE](LICENSE) file.
+
+Standalone redistribution, reuploads, and distribution of modified
+versions are not permitted without explicit permission.
