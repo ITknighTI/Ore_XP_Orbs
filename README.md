@@ -14,7 +14,7 @@ The experience is dropped as real XP orbs instead of being added directly to the
 - 💎 Fortune works normally
 - ✨ Silk Touch prevents XP from dropping
 - 🪨 Supports regular and Deepslate ore variants
-- 📦 Available as a Datapack and Fabric version
+- 📦 Available as a Datapack and Fabric/Quilt version
 
 ## XP Rewards
 
